@@ -1,4 +1,5 @@
 SOME POTENTIAL TODOS:
+Tests.
 For country flags, placeholder while loading and when failing to retrieve.
 Persistence.
 Design, better error message appearance, especially in ProvincesView.
