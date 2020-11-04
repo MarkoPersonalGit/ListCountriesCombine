@@ -1,11 +1,7 @@
-INSTALLATION:
-pod init
-pod install
-
 SOME POTENTIAL TODOS:
 For country flags, placeholder while loading and when failing to retrieve.
 Persistence.
-Design, nicer error message appearance, especially in ProvincesView.
+Design, better error message appearance, especially in ProvincesView.
 
 
 
