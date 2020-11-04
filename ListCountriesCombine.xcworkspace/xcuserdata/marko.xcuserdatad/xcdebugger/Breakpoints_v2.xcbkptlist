@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7ED9D58B-D757-4392-937E-C77EBA3F9883"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "82991288-2B4A-430D-A6AE-A66ED68CBFBE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListCountriesCombine/CountriesView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F76E671C-4AC8-49F2-ABD0-4E856E023CB1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListCountriesCombine/CountriesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "getCountries()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "3BD6F461-24BC-4550-868D-67C0E3628E3F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E174094-DAFE-45D2-895B-F64DDDEDFA62"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListCountriesCombine/MapView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "updateUIView(_:context:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4F37A684-BB7E-4BB6-9A99-33A008663B64"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListCountriesCombine/MapView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "setRegion(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "81678528-883F-4397-BF32-8A3B6F00FE3F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListCountriesCombine/MapView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "setRegion(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D57F5FAC-FB98-4428-9816-347946E5C021"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListCountriesCombine/ProvincesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "getProvinces(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "41E12016-60C6-4959-9BE5-8B222734B8D8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListCountriesCombine/ProvincesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "getProvinces(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17425DFB-4FF9-4BEC-B7AA-6534C5B55B25"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListCountriesCombine/ProvincesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "getProvinces(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.AddressBreakpoint">
+         <BreakpointContent
+            uuid = "7E919D07-6436-4AD2-94FE-CA33A371EF17"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "*0x7fff201738a6">
+            <Locations>
+               <Location
+                  uuid = "7E919D07-6436-4AD2-94FE-CA33A371EF17 - 9a6bdd25733d424f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "objc_msgSend"
+                  moduleName = "libobjc.A.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "38">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA777B02-2295-4CDD-B889-7E87A38A86B7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListCountriesCombine/VIewModels/ProvincesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "setRegion(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ADB0A2D4-78C9-4182-BCCF-F5527EFB18BE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListCountriesCombine/Views/ProvincesView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B62AF61-6608-476B-B00C-EC465DDD59D5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListCountriesCombine/Views/ProvincesView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "8B62AF61-6608-476B-B00C-EC465DDD59D5 - 608a7b2254ad0321"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListCountriesCombine.ProvincesView.body.getter : some"
+                  moduleName = "ListCountriesCombine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marko/Repositories/ListCountriesCombine/ListCountriesCombine/Views/ProvincesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "8B62AF61-6608-476B-B00C-EC465DDD59D5 - 2f9a400374c6cde3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI._ConditionalContent&lt;SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of ListCountriesCombine.ProvincesView.(error in _6C228CA0F15DEC9209860FDBD9FEED4E) : some&gt;&gt;.0, ListCountriesCombine.Spinner&gt;, SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.navigationBarTitle&lt;A where A1: Swift.StringProtocol&gt;(_: A1, displayMode: SwiftUI.NavigationBarItem.TitleDisplayMode) -&gt; some&gt;&gt;.0, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of ListCountriesCombine.ProvincesView.(mapAndList in _6C228CA0F15DEC9209860FDBD9FEED4E) : some&gt;&gt;.0&gt; in ListCountriesCombine.ProvincesView.body.getter : some"
+                  moduleName = "ListCountriesCombine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marko/Repositories/ListCountriesCombine/ListCountriesCombine/Views/ProvincesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "914">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE629460-398A-4E29-8740-C85338D12DC0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListCountriesCombine/VIewModels/ProvincesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "setRegion(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AAA220BF-9B2B-44FD-BED8-14C4524211F7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListCountriesCombine/VIewModels/ProvincesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ProvincesViewModel"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "AAA220BF-9B2B-44FD-BED8-14C4524211F7 - dff2e638c29adfb4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of ListCountriesCombine.ProvincesViewModel.region : Swift.Optional&lt;__C.MKCoordinateRegion&gt;"
+                  moduleName = "ListCountriesCombine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marko/Repositories/ListCountriesCombine/ListCountriesCombine/VIewModels/ProvincesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "AAA220BF-9B2B-44FD-BED8-14C4524211F7 - 683ddee2ed49809b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListCountriesCombine.ProvincesViewModel.region.getter : Swift.Optional&lt;__C.MKCoordinateRegion&gt;"
+                  moduleName = "ListCountriesCombine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marko/Repositories/ListCountriesCombine/ListCountriesCombine/VIewModels/ProvincesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "174">
+               </Location>
+               <Location
+                  uuid = "AAA220BF-9B2B-44FD-BED8-14C4524211F7 - 9d0580502ccfe967"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListCountriesCombine.ProvincesViewModel.region.setter : Swift.Optional&lt;__C.MKCoordinateRegion&gt;"
+                  moduleName = "ListCountriesCombine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marko/Repositories/ListCountriesCombine/ListCountriesCombine/VIewModels/ProvincesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "129">
+               </Location>
+               <Location
+                  uuid = "AAA220BF-9B2B-44FD-BED8-14C4524211F7 - 879f2cd20593043f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListCountriesCombine.ProvincesViewModel.region.modify : Swift.Optional&lt;__C.MKCoordinateRegion&gt;"
+                  moduleName = "ListCountriesCombine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marko/Repositories/ListCountriesCombine/ListCountriesCombine/VIewModels/ProvincesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "AAA220BF-9B2B-44FD-BED8-14C4524211F7 - 3e82e4f35cff9f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListCountriesCombine.ProvincesViewModel.region.modify : Swift.Optional&lt;__C.MKCoordinateRegion&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ListCountriesCombine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marko/Repositories/ListCountriesCombine/ListCountriesCombine/VIewModels/ProvincesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  uuid = "AAA220BF-9B2B-44FD-BED8-14C4524211F7 - ea258cf986a2d3fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListCountriesCombine.ProvincesViewModel.$region.getter : Combine.Published&lt;Swift.Optional&lt;__C.MKCoordinateRegion&gt;&gt;.Publisher"
+                  moduleName = "ListCountriesCombine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marko/Repositories/ListCountriesCombine/ListCountriesCombine/VIewModels/ProvincesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "110">
+               </Location>
+               <Location
+                  uuid = "AAA220BF-9B2B-44FD-BED8-14C4524211F7 - b73f1a51a4eff7c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListCountriesCombine.ProvincesViewModel.$region.setter : Combine.Published&lt;Swift.Optional&lt;__C.MKCoordinateRegion&gt;&gt;.Publisher"
+                  moduleName = "ListCountriesCombine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marko/Repositories/ListCountriesCombine/ListCountriesCombine/VIewModels/ProvincesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "233">
+               </Location>
+               <Location
+                  uuid = "AAA220BF-9B2B-44FD-BED8-14C4524211F7 - 854f1ccb62cb90dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListCountriesCombine.ProvincesViewModel.$region.modify : Combine.Published&lt;Swift.Optional&lt;__C.MKCoordinateRegion&gt;&gt;.Publisher"
+                  moduleName = "ListCountriesCombine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marko/Repositories/ListCountriesCombine/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "53">
+               </Location>
+               <Location
+                  uuid = "AAA220BF-9B2B-44FD-BED8-14C4524211F7 - 62b5b1f4dc70a935"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListCountriesCombine.ProvincesViewModel.$region.modify : Combine.Published&lt;Swift.Optional&lt;__C.MKCoordinateRegion&gt;&gt;.Publisher with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ListCountriesCombine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marko/Repositories/ListCountriesCombine/ListCountriesCombine/VIewModels/ProvincesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "17">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "81567914-9341-48C7-AF75-0BD0FF50CBF3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListCountriesCombine/VIewModels/ProvincesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "ProvincesViewModel"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "758AC91D-3169-49A2-B0A7-B9E03A014CAA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListCountriesCombine/VIewModels/CountriesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "CountriesViewModel"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "758AC91D-3169-49A2-B0A7-B9E03A014CAA - 73dba835a1f77470"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of ListCountriesCombine.CountriesViewModel.isPullRefreshing : Swift.Bool"
+                  moduleName = "ListCountriesCombine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marko/Repositories/ListCountriesCombine/ListCountriesCombine/VIewModels/CountriesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "758AC91D-3169-49A2-B0A7-B9E03A014CAA - 1f56e04758c5e8a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListCountriesCombine.CountriesViewModel.isPullRefreshing.getter : Swift.Bool"
+                  moduleName = "ListCountriesCombine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marko/Repositories/ListCountriesCombine/ListCountriesCombine/VIewModels/CountriesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "758AC91D-3169-49A2-B0A7-B9E03A014CAA - 2f8cf4ae4c1370b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListCountriesCombine.CountriesViewModel.isPullRefreshing.setter : Swift.Bool"
+                  moduleName = "ListCountriesCombine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marko/Repositories/ListCountriesCombine/ListCountriesCombine/VIewModels/CountriesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  uuid = "758AC91D-3169-49A2-B0A7-B9E03A014CAA - e94350b9fac54008"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListCountriesCombine.CountriesViewModel.isPullRefreshing.modify : Swift.Bool"
+                  moduleName = "ListCountriesCombine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marko/Repositories/ListCountriesCombine/ListCountriesCombine/VIewModels/CountriesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "758AC91D-3169-49A2-B0A7-B9E03A014CAA - fe7cfa0f7b9feb54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListCountriesCombine.CountriesViewModel.isPullRefreshing.modify : Swift.Bool with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ListCountriesCombine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marko/Repositories/ListCountriesCombine/ListCountriesCombine/VIewModels/CountriesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  uuid = "758AC91D-3169-49A2-B0A7-B9E03A014CAA - fef4bfb7c7886a86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListCountriesCombine.CountriesViewModel.$isPullRefreshing.getter : Combine.Published&lt;Swift.Bool&gt;.Publisher"
+                  moduleName = "ListCountriesCombine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marko/Repositories/ListCountriesCombine/ListCountriesCombine/VIewModels/CountriesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "110">
+               </Location>
+               <Location
+                  uuid = "758AC91D-3169-49A2-B0A7-B9E03A014CAA - 6d7c543b8756428a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListCountriesCombine.CountriesViewModel.$isPullRefreshing.setter : Combine.Published&lt;Swift.Bool&gt;.Publisher"
+                  moduleName = "ListCountriesCombine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marko/Repositories/ListCountriesCombine/ListCountriesCombine/VIewModels/CountriesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "233">
+               </Location>
+               <Location
+                  uuid = "758AC91D-3169-49A2-B0A7-B9E03A014CAA - f04d052d7f4b59de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListCountriesCombine.CountriesViewModel.$isPullRefreshing.modify : Combine.Published&lt;Swift.Bool&gt;.Publisher"
+                  moduleName = "ListCountriesCombine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marko/Repositories/ListCountriesCombine/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "53">
+               </Location>
+               <Location
+                  uuid = "758AC91D-3169-49A2-B0A7-B9E03A014CAA - c794dc018415ba0f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListCountriesCombine.CountriesViewModel.$isPullRefreshing.modify : Combine.Published&lt;Swift.Bool&gt;.Publisher with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ListCountriesCombine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marko/Repositories/ListCountriesCombine/ListCountriesCombine/VIewModels/CountriesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "17">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

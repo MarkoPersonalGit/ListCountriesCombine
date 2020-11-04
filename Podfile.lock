@@ -1,0 +1,26 @@
+PODS:
+  - Introspect (0.1.1)
+  - Kingfisher/Core (5.15.7)
+  - Kingfisher/SwiftUI (5.15.7):
+    - Kingfisher/Core
+  - SwiftUIRefresh (0.0.3):
+    - Introspect (~> 0.1.0)
+
+DEPENDENCIES:
+  - Kingfisher/SwiftUI
+  - SwiftUIRefresh
+
+SPEC REPOS:
+  trunk:
+    - Introspect
+    - Kingfisher
+    - SwiftUIRefresh
+
+SPEC CHECKSUMS:
+  Introspect: 50c17d6b1f091f4cfd678ea8a4157ac071808fe3
+  Kingfisher: 6e1a13523fcb1c86924ce53affe4ac957e544d59
+  SwiftUIRefresh: ca6ae2718d25aad5dd68bbf5d2ae36ef6ade98bf
+
+PODFILE CHECKSUM: a70b59ee0a7a3a51487f46f567ed30e3c636e203
+
+COCOAPODS: 1.8.4

@@ -1,0 +1,13 @@
+INSTALLATION:
+pod init
+pod install
+
+SOME POTENTIAL TODOS:
+For country flags, placeholder while loading and when failing to retrieve.
+Persistence.
+Design, nicer error message appearance, especially in ProvincesView.
+
+
+
+PROBLEMS:
+On Simulator, leaks instrument finds memory leaks. However,on real device no memory leaks are found.
